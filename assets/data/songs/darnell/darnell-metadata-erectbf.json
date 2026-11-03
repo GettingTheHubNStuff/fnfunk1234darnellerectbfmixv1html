@@ -1,0 +1,42 @@
+{
+ "version": "2.2.4",
+ "songName": "Darnell Erect (BF Mix)",
+ "artist": "FNFunk1234",
+ "charter": "FNFunk1234",
+ "offsets": { },
+ "playData": {
+  "difficulties": [
+   "erect",
+   "nightmare"
+  ],
+  "characters": {
+   "player": "bf",
+   "girlfriend": "gf",
+   "opponent": "darnell",
+   "instrumental": "erectbf",
+   "opponentVocals": [
+    "darnell"
+   ],
+   "playerVocals": [
+    "bf"
+   ]
+  },
+  "stage": "phillyStreetsErect",
+  "noteStyle": "funkin",
+  "ratings": {
+   "erect": 6,
+   "nightmare": 7
+  },
+  "album": "expansion2",
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.4",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 155,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
